@@ -9,7 +9,7 @@
 ---
 
 ## 📌 About This Repository  
-This repository contains **all learning resources, Python scripts, and Google Colab notebooks** for the **AI and Machine Learning – Stage 1** course offered by **SLIIT University**.  
+This repository contains **all learning resources,Submissions,Assignments, Self study projects,Python scripts, and Google Colab notebooks** for the **AI and Machine Learning – Stage 1** course offered by **SLIIT University**.  
 It includes:
 - 📝 Lecture notes & PDF materials  
 - 💻 Hands-on Python code examples  
